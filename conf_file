@@ -1,1 +1,4 @@
 # some configuration lines
+# config for Hamsterrad
+init_all = 0;
+default = true;
